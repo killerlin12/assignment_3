@@ -1,0 +1,12 @@
+<detectNet.Detection object>
+   -- ClassID: 1
+   -- Confidence: 0.888184
+   -- Left:    85.9131
+   -- Top:     31.2949
+   -- Right:   199.512
+   -- Bottom:  166.031
+   -- Width:   113.599
+   -- Height:  134.736
+   -- Area:    15305.9
+   -- Center:  (142.712, 98.6631)
+
